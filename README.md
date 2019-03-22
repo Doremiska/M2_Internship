@@ -3,16 +3,16 @@
 # Identification and filtering of oceanic chaos by Machine Learning
 ### M2 RESEARCH INTERNSHIP 
 
-Mickaël LALANDE
-Supervisors: Thierry PENDUFF and Redouane LGUENSAT 
-Master 2 in Earth, planetary and environmental sciences
-Atmosphere-Climate-Continental Landmass Programme
+Mickaël LALANDE<br/>
+Supervisors: Thierry PENDUFF and Redouane LGUENSAT<br/>
+Master 2 in Earth, planetary and environmental sciences<br/>
+Atmosphere-Climate-Continental Landmass Programme<br/>
 04/02/2019 - 28/06/2019 (5 months)
 
-[IGE - Institut des Géosciences de l'Environnement](http://www.ige-grenoble.fr/ige/)
+[IGE - Institut des Géosciences de l'Environnement](http://www.ige-grenoble.fr/ige/)<br/>
 [UFR Phitem - Université Grenoble Alpes](https://phitem.univ-grenoble-alpes.fr/)
 
-<br>
+<br/>
 
 This repository aims to make available the code for the preliminary study of the model choice section of the report. More details can be seen in the **notebooks** folder :
 -  **visualize_data.ipynb** shows basics plots to visualize the data 
@@ -27,6 +27,6 @@ We made our choice on a reduced zone (Agulhas eddies), in order to be able to te
 # Example of result
 The goal is to reconstruct the forced part of the total signal of sea level anomalies from 1979 to 1999 from an ensemble simulation with 50 members. The forced part is defined as the ensemble mean.
 
-![](results.png)
+![](result.png)
 
 #### This is only an additional material for the report. All details and further study can be found in there.
