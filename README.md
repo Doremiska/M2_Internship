@@ -9,8 +9,8 @@ Master 2 in Earth, planetary and environmental sciences<br/>
 Atmosphere-Climate-Continental Landmass Programme<br/>
 04/02/2019 - 28/06/2019 (5 months)
 
-[IGE - Institut des Géosciences de l'Environnement](http://www.ige-grenoble.fr/ige/)<br/>
-[UFR Phitem - Université Grenoble Alpes](https://phitem.univ-grenoble-alpes.fr/)
+<a href="http://www.ige-grenoble.fr/" target="_blank">IGE - Institut des Géosciences de l'Environnement</a>
+<a href="https://phitem.univ-grenoble-alpes.fr/" target="_blank">UFR Phitem - Université Grenoble Alpes</a>
 
 <br/>
 
