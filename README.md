@@ -4,9 +4,9 @@
 
 Mickaël Lalande, Redouane Lguensat, Sally Close and Thierry Penduff
 
-Université Grenoble Alpes, CNRS, IRD, Grenoble-INP, IGE, Grenoble, France; CS 40700, 38058 Grenoble Cedex 9, France
-
 [IGE - Institut des Géosciences de l'Environnement](http://www.ige-grenoble.fr/)<br/>
+
+
 
 <br/>
 This repository aims to make available the codezerr the preliminary study of the model choice section of the report. More details can be seen in the **notebooks** folder :
@@ -26,5 +26,6 @@ The goal is to reconstruct the forced part of the total signal of sea level anom
 
 #### This is only an additional material for the report. All details and further study can be found in there.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MDAyOTA4OSwtMjA0NDE2MDIyNV19
+eyJoaXN0b3J5IjpbLTE0NDQ3NDY4MDgsMTg0MDAyOTA4OSwtMj
+A0NDE2MDIyNV19
 -->
