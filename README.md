@@ -12,10 +12,11 @@ Mickaël Lalande, Redouane Lguensat, Sally Close and Thierry Penduff
 This repository aims to make available the code for the submission of the paper "A Machine Learning Technique to Attenuate the Imprint of Chaotic Ocean Variability in Altimetric Observations". An example of use of the U-Net algorithm is presented in the notebook **estimate_forced_component.ipynb**. 
 
 
-# Visualize data 
-We made our choice on a reduced zone (Agulhas eddies), in order to be able to test many different models. The choice of this zone was made to cover some chaotic zone (south of the map around eddies) and more forced area (north of the zone). We then applied these results to a bigger zone in the report.
+# U-Net architecture 
 
-![](img/signals_with_zones.png)
+![](img/unet.png)
+
+(a) Snapshot (January 3, 1979; member 50) of SLA contributions (x and y correspond to model grid indices). The black boxes show the training zones and the green boxes show testing zones (160x160 pixels). (b) The U-Net architecture used in this study: inputs are total SLA 5-daily model fields and outputs their forced counterparts (in zone 1 for this example). Each blue box corresponds to a feature map (volume corresponding to the image size times the number of stacked images). White boxes represent copied feature maps. The arrows denote the different operations.
 
 # Example of result
 The goal is to reconstruct the forced part of the total signal of sea level anomalies from 1979 to 1999 from an ensemble simulation with 50 members. The forced part is defined as the ensemble mean.
@@ -24,6 +25,6 @@ The goal is to reconstruct the forced part of the total signal of sea level anom
 
 #### This is only an additional material for the report. All details and further study can be found in there.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjQ4OTY2MzUsMTg0MDAyOTA4OSwtMj
-A0NDE2MDIyNV19
+eyJoaXN0b3J5IjpbLTEyNDA1MTUxMzIsLTE4NjQ4OTY2MzUsMT
+g0MDAyOTA4OSwtMjA0NDE2MDIyNV19
 -->
