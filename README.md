@@ -5,7 +5,7 @@
 Mickaël Lalande, Redouane Lguensat, Sally Close and Thierry Penduff
 
 [IGE - Institut des Géosciences de l'Environnement](http://www.ige-grenoble.fr/)<br/>
-
+<mickael.lalande@univ-grenoble-alpes.fr>
 
 
 <br/>
@@ -26,6 +26,6 @@ The goal is to reconstruct the forced part of the total signal of sea level anom
 
 #### This is only an additional material for the report. All details and further study can be found in there.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDQ3NDY4MDgsMTg0MDAyOTA4OSwtMj
-A0NDE2MDIyNV19
+eyJoaXN0b3J5IjpbLTc2OTg4MDEzNiwxODQwMDI5MDg5LC0yMD
+Q0MTYwMjI1XX0=
 -->
