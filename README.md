@@ -23,8 +23,7 @@ The goal is to reconstruct the forced part of the total signal of sea level anom
 
 ![](img/pred.png)
 
-#### This is only an additional material for the report. All details and further study can be found in there.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDA1MTUxMzIsLTE4NjQ4OTY2MzUsMT
-g0MDAyOTA4OSwtMjA0NDE2MDIyNV19
+eyJoaXN0b3J5IjpbNTQ3OTE1MDI0LC0xODY0ODk2NjM1LDE4ND
+AwMjkwODksLTIwNDQxNjAyMjVdfQ==
 -->
