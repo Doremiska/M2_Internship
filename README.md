@@ -2,10 +2,10 @@
 
 # A Machine Learning Technique to Attenuate the Imprint of Chaotic Ocean Variability in Altimetric Observations
 
-Mickaël Lalande\affil{1}, Redouane Lguensat\affil{1}, Sally Close\affil{1} and Thierry Penduff\affil{1}}
+Mickaël Lalande, Redouane Lguensat, Sally Close and Thierry Penduff
 
 
-\affiliation{1}{Universit\'e Grenoble Alpes, CNRS, IRD, Grenoble-INP, IGE, Grenoble, France; CS 40700, 38058 Grenoble Cedex 9, France}
+Universit\'e Grenoble Alpes, CNRS, IRD, Grenoble-INP, IGE, Grenoble, France; CS 40700, 38058 Grenoble Cedex 9, France}
 Mickaël LALANDE<br/>
 Supervisors: Thierry PENDUFF and Redouane LGUENSAT<br/>
 Master 2 in Earth, planetary and environmental sciences<br/>
@@ -34,5 +34,6 @@ The goal is to reconstruct the forced part of the total signal of sea level anom
 
 #### This is only an additional material for the report. All details and further study can be found in there.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQxNjAyMjVdfQ==
+eyJoaXN0b3J5IjpbLTE0NzgwMDI0OTYsLTIwNDQxNjAyMjVdfQ
+==
 -->
