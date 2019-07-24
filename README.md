@@ -1,6 +1,6 @@
 
 
-# Identification and filtering of oceanic chaos by Machine Learning
+# Identification and filtering of oceanic chaoerr chine Learning
 ### M2 RESEARCH INTERNSHIP 
 
 Mickaël LALANDE<br/>
@@ -14,7 +14,7 @@ Atmosphere-Climate-Continental Landmass Programme<br/>
 
 <br/>
 
-This repository aims to make available the code for the preliminary study of the model choice section of the report. More details can be seen in the **notebooks** folder :
+This repository aims to make available the codezerr the preliminary study of the model choice section of the report. More details can be seen in the **notebooks** folder :
 -  **visualize_data.ipynb** shows basics plots to visualize the data 
 -  **plot_results.ipynb** shows some results of the filtering by the machine learning.
 
@@ -30,3 +30,6 @@ The goal is to reconstruct the forced part of the total signal of sea level anom
 ![](result.png)
 
 #### This is only an additional material for the report. All details and further study can be found in there.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc1NTMxODYyN119
+-->
